@@ -5,7 +5,7 @@ class payment
 {
 
 	private:
-		int CardNo;
+	  int CardNo;
 		int CVV;
 		float TotalAmount;
 		char CardExpDate[10];

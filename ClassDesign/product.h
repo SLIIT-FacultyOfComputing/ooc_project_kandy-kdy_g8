@@ -17,4 +17,4 @@ class product
     double getPrice();
     int getStock();
     ~product();//destructor
-}
+};

@@ -35,4 +35,4 @@ class customer : public User
         delete Carts;//destructs cart object
         delete Feedback1;//destructs feedback object
     }
-}
+};

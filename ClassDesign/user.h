@@ -26,4 +26,4 @@ class User
 
 
     ~User();//destructor called for registered user
-}
+};

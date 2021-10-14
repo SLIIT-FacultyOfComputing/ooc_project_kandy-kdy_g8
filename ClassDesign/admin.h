@@ -32,4 +32,4 @@ class admin : public User
     {
       delete Products;//destructs products object
     }
-}
+};

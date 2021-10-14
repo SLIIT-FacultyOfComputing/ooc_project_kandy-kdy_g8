@@ -15,4 +15,4 @@ public:
   char getfeedbackcontent();
   ~Feedback();//Destructor
 
-}
+};
